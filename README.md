@@ -12,3 +12,4 @@
  - Correo: lizette.cetina.diaz@gmail.com
  - Mi página Web
  - CV
+![yo](yo.jepg)
