@@ -12,4 +12,3 @@
  - Correo: lizette.cetina.diaz@gmail.com
  - Mi página Web
  - CV
-![Yo](fotogithub.jpeg)
