@@ -1,6 +1,7 @@
 # Hello, World👋
 
- ## About Me
+ ## About Me 
+ !(Demo)[fotogithub.jpeg]
  Mi nombre es Lizette, soy de Mérida, Yucatán, México.
  Soy estudiante de últimos semestres de Ingeniería en Mecatrónica. 
  ## Skills
