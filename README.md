@@ -8,7 +8,8 @@
 - AutoCAD, código G&M de CNC.
 - Español nativo, inglés nivel B1.
  ## Contact Me
- - LinkedIn: (Lizette Cetina Díaz)[https://www.linkedin.com/in/lizette-cetina-d%C3%ADaz-a2285b310/]
+ - LinkedIn: [Lizette Cetina Díaz](https://www.linkedin.com/in/lizette-cetina-d%C3%ADaz-a2285b310/)
  - Correo: lizette.cetina.diaz@gmail.com
  - Mi página Web
  - CV
+![Yo](fotogithub.jpeg)
