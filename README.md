@@ -11,5 +11,5 @@
  - LinkedIn: [Lizette Cetina Díaz](https://www.linkedin.com/in/lizette-cetina-d%C3%ADaz-a2285b310/)
  - Correo: lizette.cetina.diaz@gmail.com
  - [Mi página Web](https://lizt-cd.github.io/portafolio2024/)
- - [Descarga mi CV](https://1drv.ms/f/s!AhRSpGNHCokkguUEjkexVEi55yEF7Q?e=Gd5fyy)
+ - [Descarga mi CV](cv.pdf)
 
